@@ -2,10 +2,6 @@ body{
     color: black;
 }
 
-.jumbotron p{
-    font-size: 24px;
-}
-
 .navbar{
     background: green;
     color: white;
@@ -15,9 +11,20 @@ body{
     color: white;
 }
 
-#myCarousel {
-    margin: 20px 0px 20px 0px;
-    padding: 0;
+.featurette p{
+    font-size: 24px;
+    vertical-align: middle
+}
+
+.featurette-divider {
+  margin: 5rem 0;
+  padding: 
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
 }
 
 .glyphicon { margin-right:5px; }
