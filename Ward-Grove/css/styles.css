@@ -2,7 +2,7 @@ body{
     color: black;
 }
 
-.container-fluid{
+.jumbotron p{
     font-size: 24px;
 }
 
@@ -16,7 +16,7 @@ body{
 }
 
 #myCarousel {
-    margin: 50px 0px 50px 0px;
+    margin: 20px 0px 20px 0px;
     padding: 0;
 }
 
